@@ -1,0 +1,67 @@
+html {
+    font-size: 120%;
+    font-family: sans-serif;
+}
+
+.sold-out {
+    color: red;
+    background-color: rgb(150, 118, 223);
+    text-align: center;
+    border:1px solid rgb(104, 104, 104);
+}
+.table {
+
+    border-collapse: collapse;
+    width: 100%;
+
+}
+.blue {
+    background-color: rgb(13, 53, 184);
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    text-align: center;
+}
+.blue-d {
+    background-color: rgb(13, 53, 184);
+    border: 1px solid rgb(255, 255, 255);
+    color: white;
+    text-align: center;
+    
+}
+.white{
+    text-align: center;
+    border:1px solid rgb(104, 104, 104);
+    font-weight:bolder ;
+}
+  
+
+.green{
+    background-color: rgb(146, 179, 115);
+    text-align: center;
+    border:1px solid rgb(104, 104, 104);
+}
+.pp{
+    background-color: rgb(150, 118, 223);
+    text-align: center;
+    border:1px solid rgb(104, 104, 104);
+}
+.wht{
+    background-color: wheat;
+    text-align: center;
+    border:1px solid rgb(104, 104, 104);
+}
+.wht-2{
+    background-color: wheat;
+    color: red;
+    text-align: center;
+    border:1px solid rgb(104, 104, 104);
+}
+.light{
+    background-color: rgb(117, 203, 230);
+    border:1px solid rgb(104, 104, 104);
+    text-align: center;
+    font-weight:bolder ;
+}
+.down{
+    border-bottom:3px solid black ;
+}
